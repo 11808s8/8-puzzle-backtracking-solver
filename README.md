@@ -5,6 +5,7 @@ O projeto aplica backtracking para solucionar instâncias [passíveis de resolu�
 <p align="center">
   <img width="460" height="300" src="/artefatos/tela-do-programa.png" alt="Tela principal do resolvedor de puzzle 8 através de backtracking">
 </p>
+
 ### Execução pelo terminal com o comando: 
 
 ```console
