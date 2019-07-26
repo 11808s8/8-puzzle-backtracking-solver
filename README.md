@@ -6,12 +6,17 @@ O projeto aplica backtracking para solucionar instâncias [passíveis de resolu�
   <img width="460" height="300" src="/artefatos/tela-do-programa.png" alt="Tela principal do resolvedor de puzzle 8 através de backtracking">
 </p>
 ### Execução pelo terminal com o comando: 
-`./resolvedor`
+
+```console
+foo@bar: ./resolvedor
+```
 
 (É preciso estar na mesma pasta do 'executável')
 
 Senão, é só colocar o comando:
-`gcc -o nomeDesejado resolvedorPuzzle8.c`
+```console
+foo@bar: gcc -o nomeDesejado resolvedorPuzzle8.c
+```
 
 Que será gerado um arquivo com o nomeDesejado, sendo possível executar pelo terminal :)
 
